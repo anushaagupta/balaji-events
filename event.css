@@ -1,0 +1,110 @@
+#navi{
+	padding-left: 100px;
+}
+
+#adjust{
+	padding-right: 50px;
+}
+#imgg{
+	size:100%;
+}
+#colo{
+	background-color:black;
+}
+#colo a:hover{
+	color:#c5b358 ;
+}
+.cardd{
+	background-color: #c5b358;
+}
+.carddt{
+	color:#c5b358;
+}
+#about{
+	margin-top: 20px;
+}
+#abo_align{
+	padding: 58px 58px 58px 58px;
+
+}
+.one{
+	border:5px solid #2f4f4f;
+	margin-bottom: 40px;
+	float: right;
+	
+}
+.one:hover{
+	border: 5px solid #ffc107;
+}
+.third{
+	border:5px solid #2f4f4f;
+	margin-bottom: 40px;
+}
+.third:hover{
+	border: 5px solid #ffc107;
+}
+.btngal{
+	margin-left: 15px;
+	margin-left: 15px;
+	margin-top: 15px;
+	padding:3px 3px 3px 3px;
+	background-color: #ffc107;
+
+}
+.press .btngal:hover{
+    color: white;
+    cursor: pointer;
+}
+.press .btngal .active{
+	background-color: black;
+}
+
+.imgbox{
+	margin-top: 20px;
+	position: relative;
+	width:100%;
+	height: auto;
+	
+	display: flex;
+	flex-wrap: wrap; 
+	justify-content: center;
+}
+.imgbox img{
+	margin: 5px 5px 5px 5px;
+}
+.fa {
+  padding: 5px;
+  font-size: 20px;
+  width: 30px;
+  height: 30px;
+  border-radius: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-instagram {
+  background: #d81b60;
+  color: white;
+}
+#gall {
+   position: relative;
+   width:100%;
+   
+   height: auto;
+   display:flex;
+   flex-wrap: wrap;
+   justify-content: center;
+   
+}
+#gall img{
+	margin: 8px 8px 8px 8px;
+}
+
+
