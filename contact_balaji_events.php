@@ -1,5 +1,5 @@
 <?php
-$con = mysqli_connect ("localhost", "dhruvsingh", "Deepesh@801", "events", "3308") or die (mysqli_error($con));
+$con = mysqli_connect ("localhost", "anushaa", "anushaaisstrong", "events", "3308") or die (mysqli_error($con));
 
 ?>
 
