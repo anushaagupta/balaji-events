@@ -1,5 +1,5 @@
 <?php 
-$con = mysqli_connect ("localhost", "dhruvsingh", "Deepesh@801", "events", "3308") or die (mysqli_error($con));
+$con = mysqli_connect ("localhost", "anushaa", "anushaaisstrong", "events", "3308") or die (mysqli_error($con));
 
 $phone=mysqli_real_escape_string($con , $_POST['phone']) ;
 function validating($phone){
